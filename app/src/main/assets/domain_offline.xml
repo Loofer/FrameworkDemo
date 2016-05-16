@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Domains>
+    <Domain name="RES_URL">http://res.imcoming.com.cn/</Domain>
+    <Domain name="ITEM_URL">http://item-v2.imcoming.com.cn</Domain>
+    <Domain name="ORDER_URL">http://order-v2.imcoming.com.cn</Domain>
+    <Domain name="MOON_URL">http://ml.v2.imcoming.com.cn</Domain>
+    <Domain name="SELL_URL">http://sell.v2.imcoming.com.cn</Domain>
+    <Domain name="PAY_URL">http://payment.imcoming.com.cn</Domain>
+    <Domain name="SPECIAL_URL">http://special.imcoming.com.cn</Domain>
+    <Domain name="PASSPORT_URL">http://passport-v2.imcoming.com.cn</Domain>
+    <Domain name="BIZ_URL">http://biz-v2.imcoming.com.cn</Domain>
+    <Domain name="SMS_URL">http://sms.imcoming.com.cn</Domain>
+    <Domain name="SNS_URL">http://sns-v2.imcoming.com.cn</Domain>
+    <Domain name="SECKILL_URL">http://seckill-v2.imcoming.com.cn/</Domain>
+    <Domain name="SERVICE_URL">http://service.imcoming.com.cn/service/service/index</Domain>
+    <Domain name="PROMOTION_URL">http://promotion-v2.imcoming.com.cn</Domain>
+    <Domain name="IM_URL">http://139.196.7.13:8080</Domain>
+    <Domain name="BRAND_URL">http://10.0.12.75:8502</Domain>
+    <Domain name="WALLET_URL">https://payment.imcoming.com.cn/payment/v1/</Domain>
+    <Domain name="J_ITEM_URL">http://10.0.12.75:8080</Domain>
+    <Domain name="APP_HELP_URL">http://www.imcoming.com.cn</Domain>
+    <Domain name="DRAW_EXPLAIN_URL">http://uc.v2.imcoming.com.cn/help/explain/draw</Domain>
+    <Domain name="POINT_EXPLAIN_URL">http://uc.v2.imcoming.com.cn/help/explain/point</Domain>
+    <Domain name="SECKILL_EXPLAIN_URL">http://uc.v2.imcoming.com.cn/help/explain/seckill</Domain>
+    <Domain name="PASSPORT_JUMP">http://passport-v2.imcoming.com.cn/passport/appJump/?token={LOGIN_TOKEN};jump={JUMP_PAGE}</Domain>
+
+</Domains>

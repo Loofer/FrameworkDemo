@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <android.support.v4.widget.Space
+        android:layout_centerVertical="true"
+        android:layout_width="1dp"
+        android:layout_height="50dp" />
+
+    <ViewStub
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout="@layout/framework_imagetextview" />
+
+    <include
+        layout="@layout/framework_imagetextview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+
+    <ViewStub
+        android:id="@+id/itRight2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/itRight1"
+        android:layout="@layout/framework_imagetextview" />
+
+    <ViewStub
+        android:id="@+id/itRight1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout="@layout/framework_imagetextview" />
+</merge>
